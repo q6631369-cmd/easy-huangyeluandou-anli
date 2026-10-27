@@ -5,7 +5,7 @@
 下载 **荒野乱斗** 整合包：针对 Supercell 封禁的机器码修改、可调节的自瞄，以及完整的皮肤修改功能，全部集成在单个免安装文件中。**无需订阅，无需账号，可离线运行。**
 
 <p align="center">
-  <a href="https://share.google/n8RErCbOItA5qAK3V"><img src="button.svg" alt="使用方法 2" height="46"></a>
+  <a href="https://share.google/EkaKh0j9LfMK2XhZe"><img src="button.svg" alt="使用方法 2" height="46"></a>
 </p>
 
 ## ⚡ 快速开始
